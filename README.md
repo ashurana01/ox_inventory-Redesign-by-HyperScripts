@@ -3,7 +3,6 @@
 Modern free redesign for ox_inventory.
 
 > Clean visuals. Better UX. Same functionality.
-> HUD in inventory is static to make it work use your framework export.
 
 ## Preview
 
@@ -15,6 +14,7 @@ A cleaner and more modern redesign of ox_inventory built to improve readability,
 ## Features
 
 - Modern inventory redesign
+- HUD in inventory is static to make it work use your framework export.
 - Cleaner item slots
 - Better spacing
 - Improved readability
