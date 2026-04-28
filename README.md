@@ -4,7 +4,7 @@ Modern free redesign for ox_inventory.
 
 Shop Now On HyperScript Special Offer 15% Off
 Store: https://hyperscripts.taintless.dev/
-Special Coupon Code: SPECIAL15
+Special Coupon Code: **SPECIAL15**
 
 > Clean visuals. Better UX. Same functionality.
 
