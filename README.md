@@ -10,7 +10,7 @@ A cleaner and more modern redesign of ox_inventory built to improve readability,
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/a77466b1-c451-4784-b5cf-934a45b2f2fa" />
 
-
+Showcase Video: [Youtube Link](https://youtu.be/vLP5Gtx7cdA)
 ## Features
 
 - Modern inventory redesign
