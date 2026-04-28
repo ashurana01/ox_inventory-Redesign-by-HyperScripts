@@ -8,6 +8,9 @@ Modern free redesign for ox_inventory.
 
 A cleaner and more modern redesign of ox_inventory built to improve readability, layout, and overall user experience without changing core functionality.
 
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/a77466b1-c451-4784-b5cf-934a45b2f2fa" />
+
+
 ## Features
 
 - Modern inventory redesign
